@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-l-(#&sr+eb&l^4#*zhxby32u_&f$gww5%-=v4jtm4nsk9=cg6x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['carzone254.herokuapp.com', 'carzonal.ke']
 
 # redirect login to dashboard, instead of profiles
 LOGIN_REDIRECT_URL = 'dashboard'
